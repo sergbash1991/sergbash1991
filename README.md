@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergii Bashkatov</h1>
-<h3 align="center">Responsible Python developer with sea of ideas and discipline</h3>
+<h3 align="center">Data analyst with 8 years of experience and two master’s degrees (pharmaceutical technology and information technology).</h3>
 
 - 🌱 I’m currently learning **Python development for web and data science**
 
